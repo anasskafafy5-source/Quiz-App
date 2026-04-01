@@ -7,7 +7,7 @@ The app fetches general knowledge questions from an API and provides a timed qui
 
 ## 🚀 Live Demo
 
-🔗 https://earnest-cranachan-2ffcf5.netlify.app
+🔗 https://lustrous-lebkuchen-b34708.netlify.app/
 
 ---
 
